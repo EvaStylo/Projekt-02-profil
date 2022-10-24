@@ -33,7 +33,7 @@ h1
   width: 25vw;
   background-color: #31363b;
   color: white;
-  box-shadow: 0, 3px, 10px, rgb(0, 0, 0, 7);
+  box-shadow: 0 4px 8px 0 grey, 0 6px 20px 0 grey;
   }
 
 .foto {
@@ -44,7 +44,7 @@ h1
 .logo { 
   position: absolute;
   left: 20%;
-  top: 22%;
+  top: 32%;
   background-color: #b92e81;
   border-radius: 50%;
 }
